@@ -1,0 +1,501 @@
+id_venta,fecha,producto,categoria,cantidad,precio_unitario,total_venta,metodo_pago,sucursal
+1,2024-12-04,Pasta Dental,Higiene,4,9.8,39.2,Tarjeta Débito,Sucursal Centro
+2,2024-11-14,Croissant,Panadería,3,3.5,10.5,Tarjeta Crédito,Sucursal Este
+3,2024-06-11,Plátano Kg,Frutas,17,6.5,110.5,QR,Sucursal Sur
+4,2024-08-05,Manzana Kg,Frutas,2,9.0,18.0,QR,Sucursal Centro
+5,2024-06-20,Arroz 1Kg,Abarrotes,18,8.0,144.0,QR,Sucursal Este
+6,2024-08-09,Azúcar 1Kg,Abarrotes,8,7.5,60.0,QR,Sucursal Centro
+7,2024-09-05,Jabón Barra,Limpieza,3,4.2,12.6,Transferencia,Sucursal Norte
+8,2024-08-11,Aceite 1L,Abarrotes,12,18.0,216.0,Transferencia,Sucursal Este
+9,2024-08-28,Azúcar 1Kg,Abarrotes,20,7.5,150.0,Tarjeta Crédito,Sucursal Este
+10,2024-08-30,Yogur Natural,Lácteos,16,5.5,88.0,QR,Sucursal Sur
+11,2024-09-07,Croissant,Panadería,18,3.5,63.0,Transferencia,Sucursal Este
+12,2024-05-03,Arroz 1Kg,Abarrotes,3,8.0,24.0,Efectivo,Sucursal Este
+13,2024-09-20,Detergente,Limpieza,5,12.5,62.5,Transferencia,Sucursal Este
+14,2024-02-07,Pasta Dental,Higiene,12,9.8,117.6,Tarjeta Débito,Sucursal Norte
+15,2024-03-30,Detergente,Limpieza,4,12.5,50.0,QR,Sucursal Sur
+16,2024-07-25,Aceite 1L,Abarrotes,18,18.0,324.0,Transferencia,Sucursal Centro
+17,2024-06-16,Té Verde,Bebidas,12,8.9,106.8,Transferencia,Sucursal Centro
+18,2024-08-12,Shampoo,Higiene,14,15.0,210.0,Transferencia,Sucursal Este
+19,2024-08-04,Azúcar 1Kg,Abarrotes,18,7.5,135.0,Tarjeta Crédito,Sucursal Este
+20,2024-05-24,Plátano Kg,Frutas,14,6.5,91.0,Transferencia,Sucursal Este
+21,2024-11-27,Café Molido 250g,Bebidas,6,15.5,93.0,Transferencia,Sucursal Sur
+22,2024-07-14,Plátano Kg,Frutas,9,6.5,58.5,QR,Sucursal Sur
+23,2024-09-06,Plátano Kg,Frutas,12,6.5,78.0,Tarjeta Débito,Sucursal Norte
+24,2024-03-21,Jabón Barra,Limpieza,15,4.2,63.0,Tarjeta Débito,Sucursal Centro
+25,2024-12-24,Aceite 1L,Abarrotes,20,18.0,360.0,Tarjeta Débito,Sucursal Centro
+26,2024-05-14,Té Verde,Bebidas,16,8.9,142.4,Tarjeta Crédito,Sucursal Centro
+27,2024-06-30,Yogur Natural,Lácteos,19,5.5,104.5,Tarjeta Crédito,Sucursal Norte
+28,2024-06-30,Aceite 1L,Abarrotes,10,18.0,180.0,Efectivo,Sucursal Sur
+29,2024-12-03,Azúcar 1Kg,Abarrotes,6,7.5,45.0,QR,Sucursal Norte
+30,2024-12-20,Café Molido 250g,Bebidas,12,15.5,186.0,Tarjeta Crédito,Sucursal Sur
+31,2024-05-25,Azúcar 1Kg,Abarrotes,7,7.5,52.5,Tarjeta Crédito,Sucursal Norte
+32,2024-09-22,Pan Integral,Panadería,10,6.8,68.0,QR,Sucursal Sur
+33,2024-10-22,Té Verde,Bebidas,18,8.9,160.2,QR,Sucursal Este
+34,2024-09-22,Detergente,Limpieza,11,12.5,137.5,Efectivo,Sucursal Sur
+35,2024-01-30,Té Verde,Bebidas,6,8.9,53.4,Tarjeta Crédito,Sucursal Sur
+36,2024-06-17,Croissant,Panadería,11,3.5,38.5,Efectivo,Sucursal Este
+37,2024-09-24,Azúcar 1Kg,Abarrotes,11,7.5,82.5,Efectivo,Sucursal Norte
+38,2024-08-20,Arroz 1Kg,Abarrotes,13,8.0,104.0,QR,Sucursal Norte
+39,2024-01-03,Arroz 1Kg,Abarrotes,19,8.0,152.0,Tarjeta Crédito,Sucursal Norte
+40,2024-10-13,Jabón Barra,Limpieza,14,4.2,58.8,Tarjeta Crédito,Sucursal Sur
+41,2024-07-14,Té Verde,Bebidas,14,8.9,124.6,Tarjeta Crédito,Sucursal Centro
+42,2024-02-21,Arroz 1Kg,Abarrotes,4,8.0,32.0,QR,Sucursal Este
+43,2024-01-09,Shampoo,Higiene,17,15.0,255.0,Tarjeta Crédito,Sucursal Este
+44,2024-04-03,Manzana Kg,Frutas,19,9.0,171.0,QR,Sucursal Sur
+45,2024-04-09,Plátano Kg,Frutas,10,6.5,65.0,Tarjeta Crédito,Sucursal Norte
+46,2024-01-09,Pan Integral,Panadería,6,6.8,40.8,Tarjeta Crédito,Sucursal Centro
+47,2024-07-30,Plátano Kg,Frutas,19,6.5,123.5,Transferencia,Sucursal Norte
+48,2024-12-27,Azúcar 1Kg,Abarrotes,4,7.5,30.0,QR,Sucursal Centro
+49,2024-11-22,Arroz 1Kg,Abarrotes,12,8.0,96.0,QR,Sucursal Centro
+50,2024-12-11,Leche Entera 1L,Lácteos,4,7.2,28.8,Tarjeta Crédito,Sucursal Este
+51,2024-12-02,Shampoo,Higiene,14,15.0,210.0,Tarjeta Crédito,Sucursal Este
+52,2024-02-14,Leche Entera 1L,Lácteos,7,7.2,50.4,QR,Sucursal Centro
+53,2024-10-12,Manzana Kg,Frutas,7,9.0,63.0,Efectivo,Sucursal Norte
+54,2024-05-25,Plátano Kg,Frutas,6,6.5,39.0,Efectivo,Sucursal Sur
+55,2024-05-25,Detergente,Limpieza,12,12.5,150.0,Transferencia,Sucursal Norte
+56,2024-08-11,Pan Integral,Panadería,14,6.8,95.2,Tarjeta Crédito,Sucursal Sur
+57,2024-05-12,Azúcar 1Kg,Abarrotes,11,7.5,82.5,Efectivo,Sucursal Este
+58,2024-01-04,Pasta Dental,Higiene,3,9.8,29.4,Efectivo,Sucursal Este
+59,2024-09-20,Leche Entera 1L,Lácteos,13,7.2,93.6,Transferencia,Sucursal Este
+60,2024-08-20,Pasta Dental,Higiene,14,9.8,137.2,Tarjeta Crédito,Sucursal Centro
+61,2024-07-31,Jabón Barra,Limpieza,20,4.2,84.0,Tarjeta Crédito,Sucursal Sur
+62,2024-11-30,Aceite 1L,Abarrotes,2,18.0,36.0,Transferencia,Sucursal Norte
+63,2024-11-10,Té Verde,Bebidas,16,8.9,142.4,Tarjeta Crédito,Sucursal Este
+64,2024-04-01,Leche Entera 1L,Lácteos,2,7.2,14.4,Efectivo,Sucursal Sur
+65,2024-10-03,Jabón Barra,Limpieza,9,4.2,37.8,QR,Sucursal Este
+66,2024-02-08,Café Molido 250g,Bebidas,19,15.5,294.5,QR,Sucursal Este
+67,2024-05-14,Azúcar 1Kg,Abarrotes,2,7.5,15.0,QR,Sucursal Sur
+68,2024-03-15,Plátano Kg,Frutas,18,6.5,117.0,Tarjeta Débito,Sucursal Este
+69,2024-03-12,Detergente,Limpieza,10,12.5,125.0,Tarjeta Crédito,Sucursal Este
+70,2024-01-14,Detergente,Limpieza,19,12.5,237.5,Tarjeta Crédito,Sucursal Sur
+71,2024-09-05,Plátano Kg,Frutas,17,6.5,110.5,Transferencia,Sucursal Sur
+72,2024-02-16,Plátano Kg,Frutas,2,6.5,13.0,QR,Sucursal Sur
+73,2024-05-03,Azúcar 1Kg,Abarrotes,8,7.5,60.0,Tarjeta Débito,Sucursal Centro
+74,2024-07-08,Manzana Kg,Frutas,2,9.0,18.0,Tarjeta Crédito,Sucursal Sur
+75,2024-07-25,Té Verde,Bebidas,3,8.9,26.7,Transferencia,Sucursal Sur
+76,2024-01-29,Jabón Barra,Limpieza,2,4.2,8.4,Tarjeta Débito,Sucursal Este
+77,2024-05-17,Yogur Natural,Lácteos,19,5.5,104.5,Efectivo,Sucursal Sur
+78,2024-08-21,Pan Integral,Panadería,6,6.8,40.8,Transferencia,Sucursal Este
+79,2024-07-07,Jabón Barra,Limpieza,7,4.2,29.4,Transferencia,Sucursal Este
+80,2024-06-12,Croissant,Panadería,11,3.5,38.5,QR,Sucursal Norte
+81,2024-04-20,Café Molido 250g,Bebidas,12,15.5,186.0,Tarjeta Débito,Sucursal Sur
+82,2024-08-11,Yogur Natural,Lácteos,7,5.5,38.5,Transferencia,Sucursal Este
+83,2024-07-12,Plátano Kg,Frutas,3,6.5,19.5,Efectivo,Sucursal Este
+84,2024-12-15,Arroz 1Kg,Abarrotes,17,8.0,136.0,Transferencia,Sucursal Sur
+85,2024-06-05,Plátano Kg,Frutas,8,6.5,52.0,Tarjeta Crédito,Sucursal Sur
+86,2024-06-23,Jabón Barra,Limpieza,18,4.2,75.6,QR,Sucursal Este
+87,2024-05-22,Yogur Natural,Lácteos,10,5.5,55.0,QR,Sucursal Este
+88,2024-07-17,Jabón Barra,Limpieza,2,4.2,8.4,Tarjeta Débito,Sucursal Norte
+89,2024-11-26,Manzana Kg,Frutas,2,9.0,18.0,QR,Sucursal Centro
+90,2024-01-28,Pasta Dental,Higiene,19,9.8,186.2,Efectivo,Sucursal Sur
+91,2024-03-04,Aceite 1L,Abarrotes,8,18.0,144.0,Efectivo,Sucursal Norte
+92,2024-08-26,Aceite 1L,Abarrotes,8,18.0,144.0,Tarjeta Crédito,Sucursal Norte
+93,2024-02-25,Leche Entera 1L,Lácteos,16,7.2,115.2,Tarjeta Débito,Sucursal Este
+94,2024-12-29,Té Verde,Bebidas,1,8.9,8.9,Tarjeta Crédito,Sucursal Norte
+95,2024-03-24,Manzana Kg,Frutas,4,9.0,36.0,Transferencia,Sucursal Sur
+96,2024-05-29,Pan Integral,Panadería,10,6.8,68.0,QR,Sucursal Centro
+97,2024-12-16,Shampoo,Higiene,17,15.0,255.0,Tarjeta Crédito,Sucursal Centro
+98,2024-12-10,Azúcar 1Kg,Abarrotes,6,7.5,45.0,Efectivo,Sucursal Este
+99,2024-01-18,Pan Integral,Panadería,6,6.8,40.8,Tarjeta Débito,Sucursal Centro
+100,2024-04-18,Yogur Natural,Lácteos,10,5.5,55.0,Efectivo,Sucursal Este
+101,2024-05-09,Croissant,Panadería,11,3.5,38.5,Tarjeta Crédito,Sucursal Sur
+102,2024-04-21,Té Verde,Bebidas,15,8.9,133.5,QR,Sucursal Este
+103,2024-04-14,Detergente,Limpieza,8,12.5,100.0,Tarjeta Crédito,Sucursal Norte
+104,2024-12-02,Leche Entera 1L,Lácteos,20,7.2,144.0,Efectivo,Sucursal Norte
+105,2024-11-26,Detergente,Limpieza,10,12.5,125.0,Transferencia,Sucursal Sur
+106,2024-07-15,Leche Entera 1L,Lácteos,1,7.2,7.2,Transferencia,Sucursal Centro
+107,2024-05-27,Pasta Dental,Higiene,20,9.8,196.0,Transferencia,Sucursal Norte
+108,2024-03-30,Yogur Natural,Lácteos,19,5.5,104.5,Efectivo,Sucursal Centro
+109,2024-08-24,Arroz 1Kg,Abarrotes,15,8.0,120.0,Tarjeta Débito,Sucursal Este
+110,2024-11-21,Yogur Natural,Lácteos,2,5.5,11.0,Efectivo,Sucursal Este
+111,2024-09-27,Leche Entera 1L,Lácteos,8,7.2,57.6,Tarjeta Crédito,Sucursal Centro
+112,2024-01-16,Yogur Natural,Lácteos,6,5.5,33.0,Efectivo,Sucursal Este
+113,2024-04-17,Croissant,Panadería,10,3.5,35.0,QR,Sucursal Sur
+114,2024-10-21,Plátano Kg,Frutas,4,6.5,26.0,Tarjeta Débito,Sucursal Norte
+115,2024-04-25,Detergente,Limpieza,17,12.5,212.5,Tarjeta Débito,Sucursal Centro
+116,2024-06-20,Leche Entera 1L,Lácteos,12,7.2,86.4,Tarjeta Crédito,Sucursal Centro
+117,2024-06-12,Té Verde,Bebidas,1,8.9,8.9,Efectivo,Sucursal Centro
+118,2024-09-18,Yogur Natural,Lácteos,2,5.5,11.0,Transferencia,Sucursal Centro
+119,2024-10-12,Azúcar 1Kg,Abarrotes,17,7.5,127.5,Efectivo,Sucursal Norte
+120,2024-01-03,Aceite 1L,Abarrotes,16,18.0,288.0,Tarjeta Débito,Sucursal Este
+121,2024-08-13,Té Verde,Bebidas,10,8.9,89.0,Transferencia,Sucursal Este
+122,2024-02-19,Arroz 1Kg,Abarrotes,6,8.0,48.0,Transferencia,Sucursal Norte
+123,2024-07-21,Azúcar 1Kg,Abarrotes,17,7.5,127.5,Efectivo,Sucursal Centro
+124,2024-02-24,Yogur Natural,Lácteos,9,5.5,49.5,Transferencia,Sucursal Sur
+125,2024-09-24,Aceite 1L,Abarrotes,13,18.0,234.0,Transferencia,Sucursal Este
+126,2024-10-23,Arroz 1Kg,Abarrotes,15,8.0,120.0,Transferencia,Sucursal Norte
+127,2024-12-25,Plátano Kg,Frutas,2,6.5,13.0,Transferencia,Sucursal Este
+128,2024-07-21,Yogur Natural,Lácteos,13,5.5,71.5,Efectivo,Sucursal Sur
+129,2024-12-22,Shampoo,Higiene,8,15.0,120.0,Tarjeta Crédito,Sucursal Este
+130,2024-06-14,Té Verde,Bebidas,7,8.9,62.3,Tarjeta Crédito,Sucursal Sur
+131,2024-12-04,Yogur Natural,Lácteos,20,5.5,110.0,Transferencia,Sucursal Este
+132,2024-07-17,Croissant,Panadería,1,3.5,3.5,Efectivo,Sucursal Norte
+133,2024-03-25,Leche Entera 1L,Lácteos,13,7.2,93.6,Efectivo,Sucursal Sur
+134,2024-03-26,Té Verde,Bebidas,8,8.9,71.2,QR,Sucursal Sur
+135,2024-07-14,Azúcar 1Kg,Abarrotes,9,7.5,67.5,Tarjeta Crédito,Sucursal Centro
+136,2024-02-25,Detergente,Limpieza,20,12.5,250.0,Tarjeta Crédito,Sucursal Centro
+137,2024-03-29,Aceite 1L,Abarrotes,8,18.0,144.0,Tarjeta Crédito,Sucursal Sur
+138,2024-02-01,Manzana Kg,Frutas,18,9.0,162.0,Efectivo,Sucursal Sur
+139,2024-01-06,Pan Integral,Panadería,19,6.8,129.2,Tarjeta Crédito,Sucursal Norte
+140,2024-10-06,Aceite 1L,Abarrotes,15,18.0,270.0,QR,Sucursal Centro
+141,2024-05-20,Aceite 1L,Abarrotes,4,18.0,72.0,QR,Sucursal Centro
+142,2024-04-20,Pan Integral,Panadería,12,6.8,81.6,QR,Sucursal Norte
+143,2024-03-22,Arroz 1Kg,Abarrotes,13,8.0,104.0,Tarjeta Débito,Sucursal Centro
+144,2024-11-23,Aceite 1L,Abarrotes,20,18.0,360.0,Efectivo,Sucursal Sur
+145,2024-08-09,Azúcar 1Kg,Abarrotes,8,7.5,60.0,Tarjeta Débito,Sucursal Sur
+146,2024-07-08,Aceite 1L,Abarrotes,15,18.0,270.0,Efectivo,Sucursal Norte
+147,2024-12-04,Croissant,Panadería,16,3.5,56.0,Efectivo,Sucursal Centro
+148,2024-06-06,Detergente,Limpieza,18,12.5,225.0,Efectivo,Sucursal Norte
+149,2024-03-19,Jabón Barra,Limpieza,11,4.2,46.2,Tarjeta Crédito,Sucursal Norte
+150,2024-11-05,Azúcar 1Kg,Abarrotes,5,7.5,37.5,QR,Sucursal Norte
+151,2024-02-20,Pasta Dental,Higiene,1,9.8,9.8,Tarjeta Crédito,Sucursal Este
+152,2024-06-05,Café Molido 250g,Bebidas,11,15.5,170.5,Efectivo,Sucursal Este
+153,2024-08-17,Azúcar 1Kg,Abarrotes,19,7.5,142.5,Efectivo,Sucursal Este
+154,2024-08-29,Manzana Kg,Frutas,1,9.0,9.0,Tarjeta Crédito,Sucursal Centro
+155,2024-05-11,Leche Entera 1L,Lácteos,4,7.2,28.8,Tarjeta Crédito,Sucursal Este
+156,2024-05-12,Pan Integral,Panadería,14,6.8,95.2,Efectivo,Sucursal Este
+157,2024-01-23,Yogur Natural,Lácteos,20,5.5,110.0,Transferencia,Sucursal Norte
+158,2024-08-11,Shampoo,Higiene,20,15.0,300.0,Efectivo,Sucursal Centro
+159,2024-05-24,Aceite 1L,Abarrotes,10,18.0,180.0,Tarjeta Débito,Sucursal Este
+160,2024-01-28,Croissant,Panadería,13,3.5,45.5,Tarjeta Crédito,Sucursal Este
+161,2024-11-30,Croissant,Panadería,16,3.5,56.0,Tarjeta Débito,Sucursal Norte
+162,2024-02-10,Croissant,Panadería,11,3.5,38.5,Tarjeta Crédito,Sucursal Norte
+163,2024-03-25,Yogur Natural,Lácteos,18,5.5,99.0,Tarjeta Débito,Sucursal Sur
+164,2024-04-05,Detergente,Limpieza,11,12.5,137.5,Efectivo,Sucursal Norte
+165,2024-03-17,Pasta Dental,Higiene,3,9.8,29.4,QR,Sucursal Centro
+166,2024-11-05,Arroz 1Kg,Abarrotes,15,8.0,120.0,QR,Sucursal Norte
+167,2024-07-24,Detergente,Limpieza,18,12.5,225.0,Tarjeta Débito,Sucursal Norte
+168,2024-05-07,Pan Integral,Panadería,6,6.8,40.8,Tarjeta Crédito,Sucursal Sur
+169,2024-06-30,Pan Integral,Panadería,14,6.8,95.2,Transferencia,Sucursal Norte
+170,2024-08-21,Shampoo,Higiene,8,15.0,120.0,QR,Sucursal Sur
+171,2024-12-27,Té Verde,Bebidas,2,8.9,17.8,Transferencia,Sucursal Norte
+172,2024-08-02,Leche Entera 1L,Lácteos,1,7.2,7.2,Tarjeta Débito,Sucursal Sur
+173,2024-02-19,Leche Entera 1L,Lácteos,9,7.2,64.8,QR,Sucursal Centro
+174,2024-03-23,Manzana Kg,Frutas,12,9.0,108.0,Transferencia,Sucursal Sur
+175,2024-11-07,Café Molido 250g,Bebidas,12,15.5,186.0,Tarjeta Crédito,Sucursal Sur
+176,2024-05-10,Manzana Kg,Frutas,16,9.0,144.0,QR,Sucursal Este
+177,2024-09-22,Detergente,Limpieza,20,12.5,250.0,Tarjeta Crédito,Sucursal Centro
+178,2024-10-13,Detergente,Limpieza,6,12.5,75.0,Transferencia,Sucursal Centro
+179,2024-06-07,Pan Integral,Panadería,6,6.8,40.8,Tarjeta Débito,Sucursal Este
+180,2024-05-11,Manzana Kg,Frutas,6,9.0,54.0,Efectivo,Sucursal Norte
+181,2024-09-01,Croissant,Panadería,11,3.5,38.5,Transferencia,Sucursal Centro
+182,2024-06-09,Pasta Dental,Higiene,14,9.8,137.2,Transferencia,Sucursal Norte
+183,2024-05-17,Plátano Kg,Frutas,2,6.5,13.0,Tarjeta Crédito,Sucursal Centro
+184,2024-10-13,Café Molido 250g,Bebidas,11,15.5,170.5,Transferencia,Sucursal Centro
+185,2024-05-30,Shampoo,Higiene,15,15.0,225.0,Transferencia,Sucursal Sur
+186,2024-12-16,Leche Entera 1L,Lácteos,12,7.2,86.4,QR,Sucursal Norte
+187,2024-03-08,Pan Integral,Panadería,6,6.8,40.8,Efectivo,Sucursal Norte
+188,2024-03-27,Yogur Natural,Lácteos,20,5.5,110.0,QR,Sucursal Norte
+189,2024-08-02,Pasta Dental,Higiene,17,9.8,166.6,Tarjeta Débito,Sucursal Norte
+190,2024-10-09,Detergente,Limpieza,19,12.5,237.5,Tarjeta Débito,Sucursal Sur
+191,2024-04-17,Leche Entera 1L,Lácteos,11,7.2,79.2,QR,Sucursal Este
+192,2024-02-18,Arroz 1Kg,Abarrotes,11,8.0,88.0,Transferencia,Sucursal Centro
+193,2024-04-12,Jabón Barra,Limpieza,4,4.2,16.8,Transferencia,Sucursal Norte
+194,2024-02-27,Yogur Natural,Lácteos,2,5.5,11.0,QR,Sucursal Este
+195,2024-10-08,Té Verde,Bebidas,12,8.9,106.8,Transferencia,Sucursal Este
+196,2024-11-11,Leche Entera 1L,Lácteos,20,7.2,144.0,Efectivo,Sucursal Sur
+197,2024-08-09,Leche Entera 1L,Lácteos,9,7.2,64.8,Transferencia,Sucursal Sur
+198,2024-09-10,Detergente,Limpieza,3,12.5,37.5,Tarjeta Débito,Sucursal Este
+199,2024-06-03,Croissant,Panadería,13,3.5,45.5,QR,Sucursal Sur
+200,2024-08-07,Manzana Kg,Frutas,18,9.0,162.0,Transferencia,Sucursal Este
+201,2024-06-07,Manzana Kg,Frutas,8,9.0,72.0,Tarjeta Crédito,Sucursal Este
+202,2024-05-14,Plátano Kg,Frutas,8,6.5,52.0,Transferencia,Sucursal Este
+203,2024-04-14,Pasta Dental,Higiene,8,9.8,78.4,QR,Sucursal Norte
+204,2024-05-02,Leche Entera 1L,Lácteos,7,7.2,50.4,Transferencia,Sucursal Este
+205,2024-03-11,Pan Integral,Panadería,1,6.8,6.8,Tarjeta Crédito,Sucursal Norte
+206,2024-05-22,Pan Integral,Panadería,5,6.8,34.0,Efectivo,Sucursal Este
+207,2024-03-28,Pasta Dental,Higiene,6,9.8,58.8,Tarjeta Crédito,Sucursal Este
+208,2024-08-21,Plátano Kg,Frutas,18,6.5,117.0,Transferencia,Sucursal Norte
+209,2024-04-24,Shampoo,Higiene,15,15.0,225.0,QR,Sucursal Norte
+210,2024-03-14,Manzana Kg,Frutas,8,9.0,72.0,QR,Sucursal Este
+211,2024-10-29,Pan Integral,Panadería,11,6.8,74.8,Efectivo,Sucursal Sur
+212,2024-02-19,Azúcar 1Kg,Abarrotes,17,7.5,127.5,QR,Sucursal Sur
+213,2024-02-18,Café Molido 250g,Bebidas,12,15.5,186.0,Tarjeta Crédito,Sucursal Sur
+214,2024-07-06,Plátano Kg,Frutas,20,6.5,130.0,Transferencia,Sucursal Este
+215,2024-07-30,Azúcar 1Kg,Abarrotes,13,7.5,97.5,Efectivo,Sucursal Norte
+216,2024-08-13,Yogur Natural,Lácteos,16,5.5,88.0,Transferencia,Sucursal Norte
+217,2024-05-11,Arroz 1Kg,Abarrotes,11,8.0,88.0,Transferencia,Sucursal Este
+218,2024-11-14,Jabón Barra,Limpieza,11,4.2,46.2,Transferencia,Sucursal Sur
+219,2024-10-09,Jabón Barra,Limpieza,18,4.2,75.6,Tarjeta Crédito,Sucursal Este
+220,2024-05-26,Croissant,Panadería,10,3.5,35.0,QR,Sucursal Sur
+221,2024-08-01,Yogur Natural,Lácteos,11,5.5,60.5,QR,Sucursal Este
+222,2024-09-17,Café Molido 250g,Bebidas,2,15.5,31.0,Efectivo,Sucursal Sur
+223,2024-11-21,Pasta Dental,Higiene,7,9.8,68.6,Efectivo,Sucursal Centro
+224,2024-08-28,Detergente,Limpieza,15,12.5,187.5,Tarjeta Crédito,Sucursal Este
+225,2024-07-01,Jabón Barra,Limpieza,9,4.2,37.8,Tarjeta Crédito,Sucursal Este
+226,2024-01-11,Café Molido 250g,Bebidas,11,15.5,170.5,Tarjeta Crédito,Sucursal Centro
+227,2024-02-23,Azúcar 1Kg,Abarrotes,4,7.5,30.0,QR,Sucursal Sur
+228,2024-11-16,Manzana Kg,Frutas,9,9.0,81.0,Transferencia,Sucursal Centro
+229,2024-06-19,Yogur Natural,Lácteos,5,5.5,27.5,Tarjeta Débito,Sucursal Centro
+230,2024-11-12,Pan Integral,Panadería,15,6.8,102.0,Transferencia,Sucursal Centro
+231,2024-10-05,Arroz 1Kg,Abarrotes,2,8.0,16.0,Transferencia,Sucursal Norte
+232,2024-07-18,Café Molido 250g,Bebidas,19,15.5,294.5,Tarjeta Crédito,Sucursal Norte
+233,2024-11-27,Leche Entera 1L,Lácteos,7,7.2,50.4,QR,Sucursal Centro
+234,2024-06-07,Manzana Kg,Frutas,16,9.0,144.0,Efectivo,Sucursal Sur
+235,2024-11-05,Pasta Dental,Higiene,9,9.8,88.2,QR,Sucursal Sur
+236,2024-11-26,Plátano Kg,Frutas,3,6.5,19.5,Transferencia,Sucursal Este
+237,2024-03-21,Pasta Dental,Higiene,6,9.8,58.8,Transferencia,Sucursal Norte
+238,2024-11-27,Croissant,Panadería,3,3.5,10.5,QR,Sucursal Norte
+239,2024-11-30,Pasta Dental,Higiene,14,9.8,137.2,Tarjeta Débito,Sucursal Norte
+240,2024-03-24,Té Verde,Bebidas,8,8.9,71.2,QR,Sucursal Sur
+241,2024-09-20,Manzana Kg,Frutas,18,9.0,162.0,QR,Sucursal Norte
+242,2024-12-30,Café Molido 250g,Bebidas,3,15.5,46.5,Tarjeta Crédito,Sucursal Norte
+243,2024-10-20,Azúcar 1Kg,Abarrotes,14,7.5,105.0,Transferencia,Sucursal Este
+244,2024-05-28,Detergente,Limpieza,13,12.5,162.5,Transferencia,Sucursal Este
+245,2024-06-17,Yogur Natural,Lácteos,8,5.5,44.0,QR,Sucursal Sur
+246,2024-11-23,Yogur Natural,Lácteos,7,5.5,38.5,Transferencia,Sucursal Sur
+247,2024-02-18,Café Molido 250g,Bebidas,13,15.5,201.5,Tarjeta Crédito,Sucursal Norte
+248,2024-07-05,Arroz 1Kg,Abarrotes,9,8.0,72.0,Transferencia,Sucursal Centro
+249,2024-03-09,Té Verde,Bebidas,12,8.9,106.8,QR,Sucursal Este
+250,2024-01-31,Manzana Kg,Frutas,1,9.0,9.0,Efectivo,Sucursal Este
+251,2024-02-20,Jabón Barra,Limpieza,15,4.2,63.0,QR,Sucursal Sur
+252,2024-04-14,Plátano Kg,Frutas,10,6.5,65.0,Transferencia,Sucursal Norte
+253,2024-08-06,Shampoo,Higiene,17,15.0,255.0,Efectivo,Sucursal Centro
+254,2024-07-11,Té Verde,Bebidas,20,8.9,178.0,Tarjeta Crédito,Sucursal Norte
+255,2024-05-24,Manzana Kg,Frutas,2,9.0,18.0,Efectivo,Sucursal Norte
+256,2024-03-30,Leche Entera 1L,Lácteos,3,7.2,21.6,QR,Sucursal Sur
+257,2024-01-26,Café Molido 250g,Bebidas,1,15.5,15.5,QR,Sucursal Centro
+258,2024-06-01,Azúcar 1Kg,Abarrotes,3,7.5,22.5,QR,Sucursal Norte
+259,2024-10-27,Detergente,Limpieza,2,12.5,25.0,Tarjeta Crédito,Sucursal Sur
+260,2024-12-05,Arroz 1Kg,Abarrotes,17,8.0,136.0,QR,Sucursal Centro
+261,2024-03-14,Aceite 1L,Abarrotes,10,18.0,180.0,QR,Sucursal Sur
+262,2024-04-20,Té Verde,Bebidas,6,8.9,53.4,Tarjeta Débito,Sucursal Sur
+263,2024-08-19,Arroz 1Kg,Abarrotes,6,8.0,48.0,Efectivo,Sucursal Sur
+264,2024-10-05,Pan Integral,Panadería,2,6.8,13.6,Transferencia,Sucursal Este
+265,2024-09-04,Shampoo,Higiene,9,15.0,135.0,Tarjeta Débito,Sucursal Este
+266,2024-07-03,Yogur Natural,Lácteos,4,5.5,22.0,Efectivo,Sucursal Sur
+267,2024-01-06,Plátano Kg,Frutas,7,6.5,45.5,QR,Sucursal Este
+268,2024-08-10,Leche Entera 1L,Lácteos,2,7.2,14.4,QR,Sucursal Sur
+269,2024-08-15,Shampoo,Higiene,15,15.0,225.0,Tarjeta Crédito,Sucursal Norte
+270,2024-02-11,Manzana Kg,Frutas,4,9.0,36.0,Transferencia,Sucursal Sur
+271,2024-03-29,Azúcar 1Kg,Abarrotes,18,7.5,135.0,Transferencia,Sucursal Este
+272,2024-05-05,Arroz 1Kg,Abarrotes,19,8.0,152.0,Tarjeta Crédito,Sucursal Sur
+273,2024-10-10,Café Molido 250g,Bebidas,5,15.5,77.5,Tarjeta Crédito,Sucursal Centro
+274,2024-01-20,Té Verde,Bebidas,2,8.9,17.8,Tarjeta Débito,Sucursal Este
+275,2024-08-20,Detergente,Limpieza,15,12.5,187.5,Efectivo,Sucursal Norte
+276,2024-10-14,Azúcar 1Kg,Abarrotes,11,7.5,82.5,Efectivo,Sucursal Sur
+277,2024-06-07,Yogur Natural,Lácteos,2,5.5,11.0,Tarjeta Débito,Sucursal Norte
+278,2024-07-13,Plátano Kg,Frutas,6,6.5,39.0,QR,Sucursal Este
+279,2024-07-26,Manzana Kg,Frutas,6,9.0,54.0,Tarjeta Débito,Sucursal Centro
+280,2024-09-26,Shampoo,Higiene,20,15.0,300.0,Efectivo,Sucursal Sur
+281,2024-05-29,Pasta Dental,Higiene,19,9.8,186.2,Tarjeta Débito,Sucursal Norte
+282,2024-02-06,Yogur Natural,Lácteos,5,5.5,27.5,QR,Sucursal Este
+283,2024-07-07,Detergente,Limpieza,14,12.5,175.0,Tarjeta Crédito,Sucursal Sur
+284,2024-04-07,Arroz 1Kg,Abarrotes,12,8.0,96.0,Transferencia,Sucursal Sur
+285,2024-10-08,Té Verde,Bebidas,10,8.9,89.0,Tarjeta Débito,Sucursal Norte
+286,2024-11-18,Plátano Kg,Frutas,1,6.5,6.5,Tarjeta Débito,Sucursal Este
+287,2024-09-09,Aceite 1L,Abarrotes,6,18.0,108.0,Tarjeta Crédito,Sucursal Centro
+288,2024-05-04,Detergente,Limpieza,16,12.5,200.0,Efectivo,Sucursal Este
+289,2024-03-19,Manzana Kg,Frutas,17,9.0,153.0,QR,Sucursal Norte
+290,2024-12-05,Jabón Barra,Limpieza,18,4.2,75.6,Efectivo,Sucursal Norte
+291,2024-08-11,Pasta Dental,Higiene,18,9.8,176.4,Tarjeta Crédito,Sucursal Sur
+292,2024-12-13,Pan Integral,Panadería,14,6.8,95.2,Efectivo,Sucursal Sur
+293,2024-04-24,Yogur Natural,Lácteos,14,5.5,77.0,Transferencia,Sucursal Norte
+294,2024-08-11,Detergente,Limpieza,2,12.5,25.0,QR,Sucursal Centro
+295,2024-12-26,Plátano Kg,Frutas,7,6.5,45.5,Efectivo,Sucursal Norte
+296,2024-01-11,Manzana Kg,Frutas,19,9.0,171.0,Efectivo,Sucursal Sur
+297,2024-07-02,Té Verde,Bebidas,19,8.9,169.1,Transferencia,Sucursal Centro
+298,2024-08-28,Leche Entera 1L,Lácteos,12,7.2,86.4,Efectivo,Sucursal Este
+299,2024-04-16,Café Molido 250g,Bebidas,14,15.5,217.0,Tarjeta Crédito,Sucursal Centro
+300,2024-02-11,Arroz 1Kg,Abarrotes,12,8.0,96.0,Tarjeta Débito,Sucursal Centro
+301,2024-02-09,Café Molido 250g,Bebidas,9,15.5,139.5,Tarjeta Crédito,Sucursal Centro
+302,2024-07-10,Pasta Dental,Higiene,8,9.8,78.4,QR,Sucursal Norte
+303,2024-12-10,Té Verde,Bebidas,8,8.9,71.2,Tarjeta Crédito,Sucursal Centro
+304,2024-01-26,Pan Integral,Panadería,14,6.8,95.2,Tarjeta Débito,Sucursal Sur
+305,2024-05-29,Aceite 1L,Abarrotes,20,18.0,360.0,Tarjeta Crédito,Sucursal Norte
+306,2024-01-19,Pan Integral,Panadería,14,6.8,95.2,Transferencia,Sucursal Norte
+307,2024-11-30,Leche Entera 1L,Lácteos,11,7.2,79.2,Transferencia,Sucursal Sur
+308,2024-03-23,Leche Entera 1L,Lácteos,4,7.2,28.8,Tarjeta Débito,Sucursal Norte
+309,2024-04-23,Té Verde,Bebidas,2,8.9,17.8,Transferencia,Sucursal Norte
+310,2024-10-23,Aceite 1L,Abarrotes,6,18.0,108.0,Efectivo,Sucursal Sur
+311,2024-11-26,Jabón Barra,Limpieza,4,4.2,16.8,Tarjeta Crédito,Sucursal Este
+312,2024-06-19,Arroz 1Kg,Abarrotes,14,8.0,112.0,QR,Sucursal Este
+313,2024-09-07,Yogur Natural,Lácteos,19,5.5,104.5,Transferencia,Sucursal Centro
+314,2024-08-23,Té Verde,Bebidas,4,8.9,35.6,Tarjeta Débito,Sucursal Este
+315,2024-06-23,Yogur Natural,Lácteos,7,5.5,38.5,Tarjeta Crédito,Sucursal Sur
+316,2024-11-19,Té Verde,Bebidas,17,8.9,151.3,Tarjeta Débito,Sucursal Sur
+317,2024-05-02,Shampoo,Higiene,19,15.0,285.0,QR,Sucursal Este
+318,2024-02-04,Yogur Natural,Lácteos,4,5.5,22.0,Tarjeta Débito,Sucursal Este
+319,2024-12-17,Detergente,Limpieza,19,12.5,237.5,Tarjeta Débito,Sucursal Este
+320,2024-01-21,Plátano Kg,Frutas,17,6.5,110.5,Efectivo,Sucursal Este
+321,2024-10-24,Azúcar 1Kg,Abarrotes,17,7.5,127.5,QR,Sucursal Sur
+322,2024-03-15,Croissant,Panadería,17,3.5,59.5,Transferencia,Sucursal Norte
+323,2024-11-01,Arroz 1Kg,Abarrotes,17,8.0,136.0,Transferencia,Sucursal Sur
+324,2024-08-01,Azúcar 1Kg,Abarrotes,18,7.5,135.0,Efectivo,Sucursal Centro
+325,2024-12-06,Aceite 1L,Abarrotes,8,18.0,144.0,Tarjeta Crédito,Sucursal Sur
+326,2024-07-06,Aceite 1L,Abarrotes,3,18.0,54.0,Tarjeta Crédito,Sucursal Sur
+327,2024-05-29,Té Verde,Bebidas,19,8.9,169.1,Transferencia,Sucursal Sur
+328,2024-07-01,Jabón Barra,Limpieza,16,4.2,67.2,QR,Sucursal Norte
+329,2024-01-20,Café Molido 250g,Bebidas,2,15.5,31.0,Transferencia,Sucursal Este
+330,2024-07-12,Pasta Dental,Higiene,1,9.8,9.8,Transferencia,Sucursal Norte
+331,2024-05-01,Leche Entera 1L,Lácteos,14,7.2,100.8,Transferencia,Sucursal Este
+332,2024-01-29,Café Molido 250g,Bebidas,17,15.5,263.5,QR,Sucursal Este
+333,2024-07-21,Croissant,Panadería,16,3.5,56.0,Efectivo,Sucursal Sur
+334,2024-08-19,Croissant,Panadería,12,3.5,42.0,Tarjeta Débito,Sucursal Centro
+335,2024-04-15,Jabón Barra,Limpieza,10,4.2,42.0,Tarjeta Débito,Sucursal Este
+336,2024-12-08,Café Molido 250g,Bebidas,19,15.5,294.5,Tarjeta Débito,Sucursal Norte
+337,2024-03-04,Café Molido 250g,Bebidas,2,15.5,31.0,QR,Sucursal Sur
+338,2024-06-17,Pan Integral,Panadería,9,6.8,61.2,QR,Sucursal Norte
+339,2024-02-01,Pan Integral,Panadería,8,6.8,54.4,QR,Sucursal Sur
+340,2024-02-17,Pan Integral,Panadería,10,6.8,68.0,Tarjeta Crédito,Sucursal Sur
+341,2024-08-07,Croissant,Panadería,1,3.5,3.5,Tarjeta Crédito,Sucursal Sur
+342,2024-01-04,Pan Integral,Panadería,5,6.8,34.0,QR,Sucursal Norte
+343,2024-04-06,Café Molido 250g,Bebidas,1,15.5,15.5,Transferencia,Sucursal Norte
+344,2024-11-24,Pan Integral,Panadería,12,6.8,81.6,Efectivo,Sucursal Este
+345,2024-01-15,Café Molido 250g,Bebidas,2,15.5,31.0,Transferencia,Sucursal Sur
+346,2024-02-16,Jabón Barra,Limpieza,6,4.2,25.2,QR,Sucursal Centro
+347,2024-04-28,Detergente,Limpieza,2,12.5,25.0,Tarjeta Crédito,Sucursal Norte
+348,2024-08-16,Té Verde,Bebidas,13,8.9,115.7,Tarjeta Crédito,Sucursal Norte
+349,2024-05-28,Yogur Natural,Lácteos,7,5.5,38.5,Tarjeta Crédito,Sucursal Norte
+350,2024-09-13,Aceite 1L,Abarrotes,14,18.0,252.0,Tarjeta Crédito,Sucursal Norte
+351,2024-10-10,Plátano Kg,Frutas,19,6.5,123.5,Transferencia,Sucursal Norte
+352,2024-04-13,Café Molido 250g,Bebidas,10,15.5,155.0,QR,Sucursal Este
+353,2024-09-03,Pan Integral,Panadería,8,6.8,54.4,Efectivo,Sucursal Sur
+354,2024-05-11,Pan Integral,Panadería,8,6.8,54.4,QR,Sucursal Este
+355,2024-03-19,Café Molido 250g,Bebidas,17,15.5,263.5,Tarjeta Débito,Sucursal Norte
+356,2024-01-04,Plátano Kg,Frutas,6,6.5,39.0,Tarjeta Débito,Sucursal Sur
+357,2024-04-02,Leche Entera 1L,Lácteos,10,7.2,72.0,Tarjeta Crédito,Sucursal Centro
+358,2024-07-07,Jabón Barra,Limpieza,6,4.2,25.2,Tarjeta Débito,Sucursal Centro
+359,2024-12-19,Yogur Natural,Lácteos,3,5.5,16.5,Tarjeta Crédito,Sucursal Sur
+360,2024-05-09,Manzana Kg,Frutas,19,9.0,171.0,Efectivo,Sucursal Norte
+361,2024-12-05,Aceite 1L,Abarrotes,18,18.0,324.0,Efectivo,Sucursal Este
+362,2024-01-01,Té Verde,Bebidas,11,8.9,97.9,Tarjeta Crédito,Sucursal Centro
+363,2024-05-25,Shampoo,Higiene,20,15.0,300.0,QR,Sucursal Sur
+364,2024-08-29,Azúcar 1Kg,Abarrotes,17,7.5,127.5,Transferencia,Sucursal Este
+365,2024-08-11,Aceite 1L,Abarrotes,19,18.0,342.0,Transferencia,Sucursal Este
+366,2024-03-03,Azúcar 1Kg,Abarrotes,14,7.5,105.0,QR,Sucursal Norte
+367,2024-10-09,Plátano Kg,Frutas,16,6.5,104.0,Transferencia,Sucursal Sur
+368,2024-03-25,Leche Entera 1L,Lácteos,8,7.2,57.6,QR,Sucursal Norte
+369,2024-01-01,Jabón Barra,Limpieza,5,4.2,21.0,Transferencia,Sucursal Sur
+370,2024-12-10,Té Verde,Bebidas,20,8.9,178.0,Tarjeta Crédito,Sucursal Centro
+371,2024-03-21,Jabón Barra,Limpieza,2,4.2,8.4,QR,Sucursal Este
+372,2024-07-31,Croissant,Panadería,20,3.5,70.0,Transferencia,Sucursal Sur
+373,2024-03-14,Té Verde,Bebidas,16,8.9,142.4,Transferencia,Sucursal Norte
+374,2024-11-05,Detergente,Limpieza,4,12.5,50.0,Efectivo,Sucursal Norte
+375,2024-06-25,Aceite 1L,Abarrotes,18,18.0,324.0,Tarjeta Débito,Sucursal Sur
+376,2024-10-11,Azúcar 1Kg,Abarrotes,10,7.5,75.0,Tarjeta Débito,Sucursal Centro
+377,2024-05-07,Aceite 1L,Abarrotes,14,18.0,252.0,Transferencia,Sucursal Este
+378,2024-02-01,Yogur Natural,Lácteos,1,5.5,5.5,Efectivo,Sucursal Norte
+379,2024-08-15,Leche Entera 1L,Lácteos,6,7.2,43.2,Tarjeta Crédito,Sucursal Este
+380,2024-09-29,Shampoo,Higiene,15,15.0,225.0,Tarjeta Crédito,Sucursal Sur
+381,2024-04-20,Pan Integral,Panadería,20,6.8,136.0,Tarjeta Crédito,Sucursal Sur
+382,2024-02-29,Arroz 1Kg,Abarrotes,12,8.0,96.0,Transferencia,Sucursal Sur
+383,2024-05-07,Croissant,Panadería,4,3.5,14.0,Tarjeta Crédito,Sucursal Centro
+384,2024-11-17,Jabón Barra,Limpieza,9,4.2,37.8,QR,Sucursal Sur
+385,2024-07-03,Pasta Dental,Higiene,19,9.8,186.2,Tarjeta Crédito,Sucursal Sur
+386,2024-07-20,Shampoo,Higiene,3,15.0,45.0,Transferencia,Sucursal Sur
+387,2024-04-30,Pasta Dental,Higiene,13,9.8,127.4,QR,Sucursal Norte
+388,2024-05-30,Café Molido 250g,Bebidas,16,15.5,248.0,Tarjeta Crédito,Sucursal Sur
+389,2024-08-07,Croissant,Panadería,16,3.5,56.0,Transferencia,Sucursal Sur
+390,2024-07-25,Manzana Kg,Frutas,8,9.0,72.0,Tarjeta Débito,Sucursal Este
+391,2024-06-27,Azúcar 1Kg,Abarrotes,16,7.5,120.0,Tarjeta Débito,Sucursal Centro
+392,2024-03-19,Té Verde,Bebidas,16,8.9,142.4,Transferencia,Sucursal Sur
+393,2024-12-14,Shampoo,Higiene,4,15.0,60.0,Efectivo,Sucursal Centro
+394,2024-02-14,Pan Integral,Panadería,9,6.8,61.2,Transferencia,Sucursal Norte
+395,2024-01-26,Detergente,Limpieza,6,12.5,75.0,QR,Sucursal Este
+396,2024-04-06,Pasta Dental,Higiene,13,9.8,127.4,Tarjeta Crédito,Sucursal Centro
+397,2024-08-22,Detergente,Limpieza,8,12.5,100.0,Transferencia,Sucursal Centro
+398,2024-08-12,Café Molido 250g,Bebidas,2,15.5,31.0,Tarjeta Débito,Sucursal Centro
+399,2024-08-03,Café Molido 250g,Bebidas,16,15.5,248.0,Efectivo,Sucursal Este
+400,2024-11-06,Pasta Dental,Higiene,18,9.8,176.4,Tarjeta Crédito,Sucursal Centro
+401,2024-04-17,Manzana Kg,Frutas,9,9.0,81.0,Transferencia,Sucursal Sur
+402,2024-01-19,Té Verde,Bebidas,12,8.9,106.8,QR,Sucursal Norte
+403,2024-10-02,Aceite 1L,Abarrotes,19,18.0,342.0,Tarjeta Crédito,Sucursal Sur
+404,2024-10-31,Plátano Kg,Frutas,2,6.5,13.0,Efectivo,Sucursal Sur
+405,2024-06-28,Yogur Natural,Lácteos,11,5.5,60.5,Tarjeta Crédito,Sucursal Este
+406,2024-01-12,Leche Entera 1L,Lácteos,13,7.2,93.6,Tarjeta Crédito,Sucursal Centro
+407,2024-10-14,Pan Integral,Panadería,12,6.8,81.6,QR,Sucursal Centro
+408,2024-11-12,Plátano Kg,Frutas,8,6.5,52.0,Tarjeta Débito,Sucursal Centro
+409,2024-07-09,Aceite 1L,Abarrotes,13,18.0,234.0,Tarjeta Débito,Sucursal Este
+410,2024-03-10,Detergente,Limpieza,5,12.5,62.5,Tarjeta Débito,Sucursal Sur
+411,2024-05-16,Arroz 1Kg,Abarrotes,12,8.0,96.0,Transferencia,Sucursal Este
+412,2024-08-02,Shampoo,Higiene,15,15.0,225.0,Tarjeta Crédito,Sucursal Norte
+413,2024-11-24,Leche Entera 1L,Lácteos,12,7.2,86.4,QR,Sucursal Sur
+414,2024-06-23,Té Verde,Bebidas,17,8.9,151.3,Efectivo,Sucursal Sur
+415,2024-04-04,Té Verde,Bebidas,20,8.9,178.0,Efectivo,Sucursal Este
+416,2024-05-04,Plátano Kg,Frutas,20,6.5,130.0,Efectivo,Sucursal Centro
+417,2024-12-26,Pasta Dental,Higiene,7,9.8,68.6,QR,Sucursal Centro
+418,2024-09-18,Arroz 1Kg,Abarrotes,18,8.0,144.0,Tarjeta Débito,Sucursal Norte
+419,2024-05-07,Jabón Barra,Limpieza,11,4.2,46.2,Efectivo,Sucursal Centro
+420,2024-12-18,Café Molido 250g,Bebidas,4,15.5,62.0,Tarjeta Crédito,Sucursal Norte
+421,2024-12-26,Aceite 1L,Abarrotes,10,18.0,180.0,Tarjeta Débito,Sucursal Norte
+422,2024-04-16,Pan Integral,Panadería,16,6.8,108.8,Efectivo,Sucursal Norte
+423,2024-05-17,Arroz 1Kg,Abarrotes,18,8.0,144.0,Efectivo,Sucursal Sur
+424,2024-05-26,Jabón Barra,Limpieza,16,4.2,67.2,Efectivo,Sucursal Este
+425,2024-04-14,Leche Entera 1L,Lácteos,7,7.2,50.4,Tarjeta Crédito,Sucursal Sur
+426,2024-06-01,Leche Entera 1L,Lácteos,13,7.2,93.6,Tarjeta Débito,Sucursal Centro
+427,2024-03-17,Pasta Dental,Higiene,8,9.8,78.4,Tarjeta Débito,Sucursal Norte
+428,2024-07-30,Jabón Barra,Limpieza,2,4.2,8.4,Tarjeta Débito,Sucursal Norte
+429,2024-07-20,Azúcar 1Kg,Abarrotes,19,7.5,142.5,QR,Sucursal Este
+430,2024-02-18,Shampoo,Higiene,4,15.0,60.0,Tarjeta Débito,Sucursal Sur
+431,2024-04-03,Pasta Dental,Higiene,15,9.8,147.0,Tarjeta Crédito,Sucursal Centro
+432,2024-08-03,Azúcar 1Kg,Abarrotes,1,7.5,7.5,Efectivo,Sucursal Centro
+433,2024-12-24,Pasta Dental,Higiene,10,9.8,98.0,Tarjeta Crédito,Sucursal Sur
+434,2024-02-03,Azúcar 1Kg,Abarrotes,7,7.5,52.5,QR,Sucursal Norte
+435,2024-06-11,Leche Entera 1L,Lácteos,17,7.2,122.4,QR,Sucursal Centro
+436,2024-12-13,Yogur Natural,Lácteos,2,5.5,11.0,Efectivo,Sucursal Norte
+437,2024-09-18,Plátano Kg,Frutas,3,6.5,19.5,Tarjeta Crédito,Sucursal Sur
+438,2024-11-29,Detergente,Limpieza,13,12.5,162.5,Efectivo,Sucursal Este
+439,2024-08-08,Arroz 1Kg,Abarrotes,11,8.0,88.0,Transferencia,Sucursal Norte
+440,2024-11-02,Detergente,Limpieza,12,12.5,150.0,Tarjeta Débito,Sucursal Sur
+441,2024-10-26,Jabón Barra,Limpieza,8,4.2,33.6,Efectivo,Sucursal Centro
+442,2024-12-26,Aceite 1L,Abarrotes,13,18.0,234.0,QR,Sucursal Centro
+443,2024-06-30,Detergente,Limpieza,19,12.5,237.5,Transferencia,Sucursal Centro
+444,2024-02-03,Té Verde,Bebidas,17,8.9,151.3,Tarjeta Crédito,Sucursal Este
+445,2024-12-18,Jabón Barra,Limpieza,14,4.2,58.8,Efectivo,Sucursal Norte
+446,2024-08-22,Detergente,Limpieza,12,12.5,150.0,QR,Sucursal Sur
+447,2024-05-02,Pasta Dental,Higiene,2,9.8,19.6,Efectivo,Sucursal Sur
+448,2024-09-22,Café Molido 250g,Bebidas,11,15.5,170.5,Tarjeta Débito,Sucursal Sur
+449,2024-11-26,Manzana Kg,Frutas,17,9.0,153.0,Tarjeta Débito,Sucursal Este
+450,2024-05-10,Croissant,Panadería,13,3.5,45.5,Tarjeta Crédito,Sucursal Centro
+451,2024-05-30,Café Molido 250g,Bebidas,18,15.5,279.0,Tarjeta Crédito,Sucursal Este
+452,2024-05-02,Jabón Barra,Limpieza,3,4.2,12.6,QR,Sucursal Este
+453,2024-11-05,Jabón Barra,Limpieza,11,4.2,46.2,Efectivo,Sucursal Centro
+454,2024-01-09,Pan Integral,Panadería,1,6.8,6.8,QR,Sucursal Centro
+455,2024-02-08,Detergente,Limpieza,15,12.5,187.5,Efectivo,Sucursal Centro
+456,2024-12-02,Azúcar 1Kg,Abarrotes,8,7.5,60.0,Tarjeta Crédito,Sucursal Centro
+457,2024-09-13,Croissant,Panadería,6,3.5,21.0,Tarjeta Débito,Sucursal Este
+458,2024-01-18,Té Verde,Bebidas,9,8.9,80.1,Tarjeta Crédito,Sucursal Norte
+459,2024-02-01,Detergente,Limpieza,14,12.5,175.0,QR,Sucursal Este
+460,2024-07-31,Leche Entera 1L,Lácteos,13,7.2,93.6,Tarjeta Crédito,Sucursal Este
+461,2024-03-06,Shampoo,Higiene,19,15.0,285.0,Efectivo,Sucursal Norte
+462,2024-08-02,Aceite 1L,Abarrotes,5,18.0,90.0,Tarjeta Débito,Sucursal Este
+463,2024-01-29,Croissant,Panadería,15,3.5,52.5,QR,Sucursal Este
+464,2024-09-07,Shampoo,Higiene,7,15.0,105.0,Tarjeta Débito,Sucursal Este
+465,2024-08-08,Arroz 1Kg,Abarrotes,14,8.0,112.0,Tarjeta Crédito,Sucursal Sur
+466,2024-01-23,Jabón Barra,Limpieza,2,4.2,8.4,QR,Sucursal Centro
+467,2024-09-30,Plátano Kg,Frutas,1,6.5,6.5,Tarjeta Crédito,Sucursal Sur
+468,2024-11-06,Jabón Barra,Limpieza,7,4.2,29.4,Tarjeta Crédito,Sucursal Este
+469,2024-06-20,Azúcar 1Kg,Abarrotes,13,7.5,97.5,Transferencia,Sucursal Este
+470,2024-09-28,Leche Entera 1L,Lácteos,3,7.2,21.6,Transferencia,Sucursal Norte
+471,2024-08-21,Pasta Dental,Higiene,5,9.8,49.0,QR,Sucursal Este
+472,2024-06-12,Pan Integral,Panadería,3,6.8,20.4,QR,Sucursal Sur
+473,2024-07-04,Pasta Dental,Higiene,2,9.8,19.6,Tarjeta Crédito,Sucursal Norte
+474,2024-05-22,Pan Integral,Panadería,9,6.8,61.2,Tarjeta Crédito,Sucursal Sur
+475,2024-08-16,Shampoo,Higiene,13,15.0,195.0,Tarjeta Débito,Sucursal Este
+476,2024-09-21,Shampoo,Higiene,15,15.0,225.0,Tarjeta Débito,Sucursal Este
+477,2024-12-29,Café Molido 250g,Bebidas,14,15.5,217.0,Efectivo,Sucursal Este
+478,2024-07-03,Manzana Kg,Frutas,14,9.0,126.0,Transferencia,Sucursal Este
+479,2024-02-13,Yogur Natural,Lácteos,9,5.5,49.5,QR,Sucursal Norte
+480,2024-04-22,Café Molido 250g,Bebidas,4,15.5,62.0,Efectivo,Sucursal Sur
+481,2024-07-04,Pasta Dental,Higiene,2,9.8,19.6,Efectivo,Sucursal Este
+482,2024-09-30,Yogur Natural,Lácteos,12,5.5,66.0,Tarjeta Débito,Sucursal Centro
+483,2024-07-13,Jabón Barra,Limpieza,12,4.2,50.4,Transferencia,Sucursal Este
+484,2024-11-10,Plátano Kg,Frutas,8,6.5,52.0,QR,Sucursal Este
+485,2024-09-30,Manzana Kg,Frutas,19,9.0,171.0,QR,Sucursal Centro
+486,2024-01-05,Shampoo,Higiene,14,15.0,210.0,Tarjeta Débito,Sucursal Norte
+487,2024-07-23,Azúcar 1Kg,Abarrotes,13,7.5,97.5,Tarjeta Débito,Sucursal Este
+488,2024-09-10,Leche Entera 1L,Lácteos,17,7.2,122.4,Tarjeta Crédito,Sucursal Este
+489,2024-03-09,Leche Entera 1L,Lácteos,20,7.2,144.0,Efectivo,Sucursal Centro
+490,2024-08-13,Azúcar 1Kg,Abarrotes,3,7.5,22.5,QR,Sucursal Centro
+491,2024-12-20,Manzana Kg,Frutas,17,9.0,153.0,Tarjeta Débito,Sucursal Este
+492,2024-11-09,Té Verde,Bebidas,1,8.9,8.9,Tarjeta Crédito,Sucursal Norte
+493,2024-07-20,Té Verde,Bebidas,15,8.9,133.5,Tarjeta Débito,Sucursal Norte
+494,2024-01-26,Café Molido 250g,Bebidas,4,15.5,62.0,Tarjeta Crédito,Sucursal Centro
+495,2024-09-17,Leche Entera 1L,Lácteos,10,7.2,72.0,QR,Sucursal Sur
+496,2024-01-04,Croissant,Panadería,16,3.5,56.0,Efectivo,Sucursal Este
+497,2024-12-27,Yogur Natural,Lácteos,19,5.5,104.5,Transferencia,Sucursal Este
+498,2024-11-02,Yogur Natural,Lácteos,15,5.5,82.5,QR,Sucursal Centro
+499,2024-05-28,Leche Entera 1L,Lácteos,19,7.2,136.8,QR,Sucursal Sur
+500,2024-12-29,Croissant,Panadería,12,3.5,42.0,Tarjeta Débito,Sucursal Norte

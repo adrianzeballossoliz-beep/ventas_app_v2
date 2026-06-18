@@ -1,0 +1,74 @@
+/* ============================================================
+   Sistema de Análisis de Ventas – Estilos Globales
+   ============================================================ */
+
+:root {
+    --primary: #4361ee;
+    --secondary: #3f37c9;
+    --accent: #f72585;
+    --bg: #f4f6fb;
+}
+
+body {
+    background-color: var(--bg);
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+/* ── Navbar ── */
+#mainNavbar {
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    box-shadow: 0 2px 12px rgba(67, 97, 238, 0.3);
+    padding: 0.6rem 1.5rem;
+}
+#mainNavbar .navbar-brand { font-size: 1.1rem; letter-spacing: 0.3px; }
+#mainNavbar .nav-link { color: rgba(255,255,255,.85) !important; transition: color .2s; }
+#mainNavbar .nav-link:hover,
+#mainNavbar .nav-link.active { color: #fff !important; }
+
+/* ── Login Page ── */
+.login-wrapper {
+    background: linear-gradient(135deg, #4361ee 0%, #7209b7 100%);
+    min-height: 100vh;
+}
+.login-container { width: 100%; max-width: 420px; padding: 1rem; }
+.login-icon {
+    width: 70px; height: 70px;
+    background: rgba(255,255,255,.2);
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    color: #fff;
+    backdrop-filter: blur(4px);
+}
+.login-title { color: #fff; font-weight: 700; font-size: 1.5rem; margin-bottom: 0; }
+.login-subtitle { color: rgba(255,255,255,.75); font-size: .9rem; }
+
+/* ── KPI Cards ── */
+.kpi-card { border-radius: 14px !important; transition: transform .2s, box-shadow .2s; }
+.kpi-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,.12) !important; }
+.kpi-icon {
+    width: 54px; height: 54px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.kpi-label { font-size: .78rem; color: #6c757d; font-weight: 500; text-transform: uppercase; letter-spacing: .5px; }
+.kpi-value { font-size: 1.3rem; font-weight: 700; }
+
+/* ── Cards ── */
+.card { border-radius: 14px !important; }
+.card-header { border-radius: 14px 14px 0 0 !important; }
+
+/* ── Tables ── */
+.table th { font-size: .8rem; font-weight: 600; letter-spacing: .3px; }
+.table td { font-size: .85rem; }
+
+/* ── Responsive tweaks ── */
+@media (max-width: 576px) {
+    .kpi-value { font-size: 1.1rem; }
+    .container-fluid { padding: 1rem !important; }
+}
